@@ -1,6 +1,10 @@
 # cs166-problem-set
 Assignment for CS166
 
+To run Wireworld
+```
+python Wireworld.py wireworld.txt 500
+```
 
 https://youtu.be/Xg_MEStWTrU
 
